@@ -2,12 +2,12 @@
 <h3 align="left">Cross-Platform App Development student</h3>
 
 <br>
-<h5><p align="left">
+<h4><p align="left">
 I am a student of cross-platform application development and I hope to gain experience in the field of android development very soon.
 </p>
 <p>  
   So please be patient...
-</p></h5>
+</p></h4>
 <br>
 
 <h2 align="left">My skills in progress:</h2>
