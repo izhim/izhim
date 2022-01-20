@@ -1,14 +1,12 @@
-<h1 align="left">Hello, my name is Jose</h1>
-<h3 align="left">Cross-Platform App Development student</h3>
+# Hello, my name is Jose
+### Cross-Platform App Development student
+> I am a student of cross-platform application development and I hope to gain experience in the field of android development soon.
+> 
+> *So please be patient...*
+### 
+### My skills:
+---
 
-<br>
-<h4><p align="left">
-I am a student of cross-platform application development and I hope to gain experience in the field of android development very soon.
-</p>
-<p>  
-  So please be patient...
-</p></h4>
-<br>
-
-<h2 align="left">My skills in progress:</h2>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/59387768/150188700-cc274413-4dd1-4ced-bf39-1ac947ac61b2.png" alt="java" width="80" height="25"/> </a></p>
+<a href="" target="_blank"><img src="https://user-images.githubusercontent.com/59387768/150323993-1b01d111-e8dc-4137-9ab4-1be879f408b7.png" height="60" align="left"/></a>
+<a href="" target="_blank"><img src="https://user-images.githubusercontent.com/59387768/150323826-ae40ab54-f9a8-4391-9ddd-c7bb5153788a.png" height="60" align="left"/></a>
+<a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" align="left"/></a>
