@@ -9,4 +9,4 @@
 <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/59387768/150323993-1b01d111-e8dc-4137-9ab4-1be879f408b7.png" height="60" align="left"/></a>
 <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/59387768/150323826-ae40ab54-f9a8-4391-9ddd-c7bb5153788a.png" height="60" align="left"/></a>
 <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" align="left"/></a>
-<a href="" target="_blank"><img src="https://github.com/izhim/izhim/assets/59387768/c0b5082b-7569-447a-be4d-16ba4a16ce46" height="60" align="left"/></a>
+<a href="" target="_blank"><img src="https://github.com/izhim/izhim/assets/59387768/d53d086f-c0be-4e51-b339-3d8e249dec7f" height="60" align="left"/></a>
