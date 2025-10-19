@@ -28,8 +28,7 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 ## 🧩 Projects Highlights
 
 - [**GPS and Sensors use in Android**](https://github.com/izhim/location-sensor-android) – Android app using GPS to map routes and sensors to trigger events and display environmental data.
-- [**Android Client Retrofit**](https://github.com/tuusuario/android-app-retrofit-room) – Mobile app with offline support using **Room** and secure API communication (**JWT**).  
-- [**Flask REST API**](https://github.com/tuusuario/python-flask-api) – RESTful API with authentication and MySQL backend.  
+
 
 *(More projects coming soon...)*
 
