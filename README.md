@@ -28,6 +28,7 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 ## 🧩 Projects Highlights
 
 - [**GPS and Sensors use in Android**](https://github.com/izhim/location-sensor-android) – Android app using GPS to map routes and sensors to trigger events and display environmental data.
+- [**Task Gestor for Android**](https://github.com/izhim/task-gestor) – Simple and efficient task manager for Android. Create, edit, and delete tasks easily, stay organized, and keep track of your daily activities with a clean and intuitive interface.
 
 
 *(More projects coming soon...)*
