@@ -16,7 +16,7 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 
 ## 🚀 Technologies & Tools
 
-**Languages:** Java, C#, SQL, PL/SQL, XQuery  
+**Languages:** Java, C#, SQL, PL/SQL, XQuery, Python 
 **Frameworks & Libraries:** Hibernate, JUnit, Room, JWT, API RESTful, MVC  
 **Databases:** MySQL, SQLite, PostgreSQL  
 **Development Tools:** Docker, Git, GitHub, XML, HTML5  
