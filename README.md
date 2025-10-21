@@ -16,7 +16,7 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 
 ## 🚀 Technologies & Tools
 
-**Languages:** Java, C++, SQL, PL/SQL, XQuery  
+**Languages:** Java, C#, SQL, PL/SQL, XQuery  
 **Frameworks & Libraries:** Hibernate, JUnit, Room, JWT, API RESTful, MVC  
 **Databases:** MySQL, SQLite, PostgreSQL  
 **Development Tools:** Docker, Git, GitHub, XML, HTML5  
@@ -27,8 +27,9 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 
 ## 🧩 Projects Highlights
 
-- [**GPS and Sensors use in Android**](https://github.com/izhim/location-sensor-android) – Android app using GPS to map routes and sensors to trigger events and display environmental data.
 - [**Task Gestor for Android**](https://github.com/izhim/task-gestor) – Simple and efficient task manager for Android. Create, edit, and delete tasks easily, stay organized, and keep track of your daily activities with a clean and intuitive interface.
+- [**GPS and Sensors use in Android**](https://github.com/izhim/location-sensor-android) – Android app using GPS to map routes and sensors to trigger events and display environmental data.
+- [**Top-Down Hockey Game in Unity**](https://github.com/izhim/unity-game) – Top-down 3D hockey game inspired by Pong. Each player controls two paddles—one fixed (goalkeeper) and one free-moving—competing in single-player vs AI or local multiplayer. Features dynamic ball physics, score tracking, countdown, music, and touch controls.
 
 
 *(More projects coming soon...)*
